@@ -126,6 +126,12 @@
  - er ( computer计算机; danger危险;  )
  - or ( doctor医生； )
  
+ [ən] 
+ ------
+ - en ( garden花园;  )
+ - on ( person人; )
+ - an ( important重要的; )
+ 
  [ð]
  ----
  - th ( this这;  these这些; )
@@ -137,7 +143,15 @@
  [f]
  ----
  - ph （  elephant大象  telephone电话, photo照片 ）
- - gh （ laugh 大笑;  ）
+ - gh （ laugh 大笑; dolphin海豚; ）
+ 
+ [ʃn]
+ -----
+ - tion (  )
+ 
+ mənt
+ ----
+ - ment ( moment瞬间;  )
  
 
  
