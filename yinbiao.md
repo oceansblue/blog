@@ -38,8 +38,8 @@
  
  [æn][en]
  ---------
- an 
- en
+ - an 
+ - en
  
  
  [eə]
@@ -119,7 +119,7 @@
  [ə:]
  -----
  - ear  （　early早；year年；learn学，学会　）
- - ir ( dirty肮脏的; first第一； )
+ - ir ( dirty肮脏的; first第一；bird鸟 )
  
  [ə] 
  ----
@@ -130,6 +130,14 @@
  ----
  - th ( this这;  these这些; )
  
+ [θ]
+ ----
+ - th  ( mouth口; )
+ 
+ [f]
+ ----
+ - ph （  elephant大象  telephone电话, photo照片 ）
+ - gh （ laugh 大笑;  ）
  
 
  
