@@ -125,6 +125,7 @@
  ----
  - er ( computer计算机; danger危险;  )
  - or ( doctor医生； )
+ - ur ( surprised惊奇的; )
  
  [ən] 
  ------
