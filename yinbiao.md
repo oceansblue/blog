@@ -96,7 +96,7 @@
  
  [ʃ]
  ----
- - sh ( wash洗;  fish鱼;)
+ - sh ( wash洗;  fish鱼; share分享; )
  
  [dr]
  -----
@@ -154,8 +154,12 @@
  ----
  - ment ( moment瞬间;  )
  
-
- 
+s...
+---------
+- sp->(sb) (spit吐口水; spring春季; ) 
+- st->(sd) (stand站立; start开始；stick粘贴; ) 
+- sk->(sg) (sky天空; skate溜冰; skirt裙子; )
+- sc->(sg) (screen屏幕; )
  
  
  
